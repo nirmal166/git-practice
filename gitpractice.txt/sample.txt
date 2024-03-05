@@ -1,0 +1,3 @@
+
+this is the practice of git commands it is a powerful tool 
+
