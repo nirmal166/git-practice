@@ -1,3 +1,3 @@
 
-this is the practice of git commands it is a powerful tool 
+this is the practice of git commands it is a powerful tool and it is important for us
 
